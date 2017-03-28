@@ -1,4 +1,4 @@
 AuthName "Secret Folder"
 AuthType Basic
-AuthUserFile /home/ubuntu/workspace/.htpasswds
+AuthUserFile /.htpasswds
 Require valid-user
