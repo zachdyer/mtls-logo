@@ -1,4 +1,4 @@
 AuthName "Secret Folder"
 AuthType Basic
-AuthUserFile /.htpasswds
+AuthUserFile /home/zachdyer/.htpasswds
 Require valid-user
